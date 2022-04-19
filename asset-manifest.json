@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rl-app/static/css/main.507927bc.css",
+    "main.js": "/rl-app/static/js/main.714dfe4b.js",
+    "static/js/787.66e3cb16.chunk.js": "/rl-app/static/js/787.66e3cb16.chunk.js",
+    "static/media/220131-European-larch-trees-and-spruces-ew-512p-ec27db.jpg": "/rl-app/static/media/220131-European-larch-trees-and-spruces-ew-512p-ec27db.04951a4e666ce01fb43e.jpg",
+    "index.html": "/rl-app/index.html",
+    "main.507927bc.css.map": "/rl-app/static/css/main.507927bc.css.map",
+    "main.714dfe4b.js.map": "/rl-app/static/js/main.714dfe4b.js.map",
+    "787.66e3cb16.chunk.js.map": "/rl-app/static/js/787.66e3cb16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507927bc.css",
+    "static/js/main.714dfe4b.js"
+  ]
+}
